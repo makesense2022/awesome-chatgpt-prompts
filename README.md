@@ -3,7 +3,6 @@
 
 ## 网络高赞Prompts (1000+点赞)
 
-以下是来自GitHub上starred超过122K的 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 仓库中的热门提示词：
 
 ### 🔥 Linux终端模拟器 (18K+ 点赞)
 ```
