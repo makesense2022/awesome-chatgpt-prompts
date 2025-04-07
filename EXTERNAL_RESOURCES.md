@@ -29,6 +29,13 @@
 | FlowGPT      | 免费社区驱动平台，分类齐全       | 多语言   | [访问网站](https://flowgpt.com/)    | 每日更新 |
 | Prompts.chat | 简洁实用的提示词模板             | 英文     | [访问网站](https://prompts.chat/)   | 定期更新 |
 
+### 飞书资源
+
+| 平台名称   | 特点         | 语言 | 链接                                                                                    | 更新频率 |
+| ---------- | ------------ | ---- | --------------------------------------------------------------------------------------- | -------- |
+| LangGPT    | 结构化提示词 | 中文 | [访问网站](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)                | 定期更新 |
+| 提示词模板 | 结构化提示词 | 中文 | [访问网站](https://dedao.feishu.cn/wiki/XPJWw2lxOiYZOYk9ju6cSLhXnZg?from=from_copylink) | 定期更新 |
+
 ### 开源提示词仓库
 
 开源社区维护的提示词收集：
